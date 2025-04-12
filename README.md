@@ -1,6 +1,6 @@
 # 👨‍💻 Jan Ceilo Nazario
 **Network Engineer | IT Technician | Tech Troubleshooter**  
-📍 Las Piñas City, Philippines | 📧 lastnatwopromise@gmail.com  
+📍 Makati City, Philippines | 📧 lastnatwopromise@gmail.com  
 
 ---
 
@@ -20,7 +20,7 @@ I’m a passionate tech professional with years of experience in computer and ne
 ---
 
 ## 💼 Work Experience
-**SR. Network Engineer**  
+**Senior Network Engineer**  
 *Uzume Building (Shaw Global Inc.)*  
 📆 Dec 2023 – Nov 2024  
 - Deployed and maintained switches and routers  
